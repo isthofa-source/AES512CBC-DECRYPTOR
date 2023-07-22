@@ -3,6 +3,7 @@ This script to perform decryption using the Advanced Encryption Standard (AES) a
 
 ## POC
 - This is sample file CTF Gemastik 2023 Forensik
+
 ![image](https://github.com/isthofa-source/AES512CBC-DECRYPTOR/assets/75401288/f18cfb52-6e30-49dd-aa0d-2dce07ac60f1)
 
 - Experiment with extracting information from the image. Here I use Zsteg.
